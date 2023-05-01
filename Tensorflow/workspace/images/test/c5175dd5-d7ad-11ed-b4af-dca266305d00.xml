@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bold Jumper</folder>
+	<filename>c5175dd5-d7ad-11ed-b4af-dca266305d00.jpg</filename>
+	<path>/Users/pasindu/Desktop/dataset/original/spider data set - Copy/train/Bold Jumper/c5175dd5-d7ad-11ed-b4af-dca266305d00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bold_Jumper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>2</ymin>
+			<xmax>198</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

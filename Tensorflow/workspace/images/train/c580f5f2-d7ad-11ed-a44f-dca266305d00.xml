@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Peacock Spider</folder>
+	<filename>c580f5f2-d7ad-11ed-a44f-dca266305d00.jpg</filename>
+	<path>/Users/pasindu/Desktop/dataset/original/spider data set - Copy/train/Peacock Spider/c580f5f2-d7ad-11ed-a44f-dca266305d00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Peacock_Spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>5</ymin>
+			<xmax>193</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

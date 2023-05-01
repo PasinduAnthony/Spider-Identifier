@@ -1,0 +1,60 @@
+item { 
+	name:'Black_Widow'
+	id:1
+}
+item { 
+	name:'Blue_tarantula'
+	id:2
+}
+item { 
+	name:'Bold_Jumper'
+	id:3
+}
+item { 
+	name:'Brown_Grass_Spider'
+	id:4
+}
+item { 
+	name:'Brown_Recluse_Spider'
+	id:5
+}
+item { 
+	name:'Deinopis_Spider'
+	id:6
+}
+item { 
+	name:'Golden_Orb_Weaver'
+	id:7
+}
+item { 
+	name:'Hobo_Spider'
+	id:8
+}
+item { 
+	name:'Huntsman_Spider'
+	id:9
+}
+item { 
+	name:'Ladybird_Mimic_Spider'
+	id:10
+}
+item { 
+	name:'Peacock_Spider'
+	id:11
+}
+item { 
+	name:'Red_Knee_Trantula'
+	id:12
+}
+item { 
+	name:'Spiny_Backed_Orb_Weaver'
+	id:13
+}
+item { 
+	name:'White_Kneed_Tarantula'
+	id:14
+}
+item { 
+	name:'Yellow_Garden_Spider'
+	id:15
+}

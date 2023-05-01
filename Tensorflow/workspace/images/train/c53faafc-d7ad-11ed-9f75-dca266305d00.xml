@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deinopis Spider</folder>
+	<filename>c53faafc-d7ad-11ed-9f75-dca266305d00.jpg</filename>
+	<path>/Users/pasindu/Desktop/dataset/original/spider data set - Copy/train/Deinopis Spider/c53faafc-d7ad-11ed-9f75-dca266305d00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Deinopis_Spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>14</ymin>
+			<xmax>213</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

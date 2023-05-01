@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Red Knee Tarantula</folder>
+	<filename>c589df5f-d7ad-11ed-ba7f-dca266305d00.jpg</filename>
+	<path>/Users/pasindu/Desktop/dataset/original/spider data set - Copy/train/Red Knee Tarantula/c589df5f-d7ad-11ed-ba7f-dca266305d00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red_Knee_Trantula</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>3</ymin>
+			<xmax>212</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

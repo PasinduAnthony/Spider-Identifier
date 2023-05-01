@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Black Widow</folder>
+	<filename>c4fa94fa-d7ad-11ed-be25-dca266305d00.jpg</filename>
+	<path>/Users/pasindu/Desktop/dataset/original/spider data set - Copy/train/Black Widow/c4fa94fa-d7ad-11ed-be25-dca266305d00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Black_Widow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>31</ymin>
+			<xmax>217</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

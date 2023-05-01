@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hobo Spider</folder>
+	<filename>c556c194-d7ad-11ed-a25f-dca266305d00.jpg</filename>
+	<path>/Users/pasindu/Desktop/dataset/original/spider data set - Copy/train/Hobo Spider/c556c194-d7ad-11ed-a25f-dca266305d00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hobo_Spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>18</ymin>
+			<xmax>217</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

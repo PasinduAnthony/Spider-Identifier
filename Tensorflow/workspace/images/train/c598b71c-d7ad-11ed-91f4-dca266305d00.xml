@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Spiny-backed Orb-weaver</folder>
+	<filename>c598b71c-d7ad-11ed-91f4-dca266305d00.jpg</filename>
+	<path>/Users/pasindu/Desktop/dataset/original/spider data set - Copy/train/Spiny-backed Orb-weaver/c598b71c-d7ad-11ed-91f4-dca266305d00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spiny_Backed_Orb_Weaver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>3</ymin>
+			<xmax>208</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

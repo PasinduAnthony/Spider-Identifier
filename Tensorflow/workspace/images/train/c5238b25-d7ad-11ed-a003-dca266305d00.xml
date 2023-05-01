@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Brown Grass Spider</folder>
+	<filename>c5238b25-d7ad-11ed-a003-dca266305d00.jpg</filename>
+	<path>/Users/pasindu/Desktop/dataset/original/spider data set - Copy/train/Brown Grass Spider/c5238b25-d7ad-11ed-a003-dca266305d00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brown_Grass_Spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>3</ymin>
+			<xmax>194</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

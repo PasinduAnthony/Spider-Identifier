@@ -1,0 +1,26 @@
+<annotation>
+	<folder>White Kneed Tarantula</folder>
+	<filename>c5a163bf-d7ad-11ed-97ba-dca266305d00.jpg</filename>
+	<path>/Users/pasindu/Desktop/dataset/original/spider data set - Copy/train/White Kneed Tarantula/c5a163bf-d7ad-11ed-97ba-dca266305d00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>White_Kneed_Tarantula</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>16</ymin>
+			<xmax>219</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

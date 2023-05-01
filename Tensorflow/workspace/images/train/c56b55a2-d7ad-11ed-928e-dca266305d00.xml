@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Huntsman Spider</folder>
+	<filename>c56b55a2-d7ad-11ed-928e-dca266305d00.jpg</filename>
+	<path>/Users/pasindu/Desktop/dataset/original/spider data set - Copy/train/Huntsman Spider/c56b55a2-d7ad-11ed-928e-dca266305d00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Huntsman_Spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>95</ymin>
+			<xmax>143</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

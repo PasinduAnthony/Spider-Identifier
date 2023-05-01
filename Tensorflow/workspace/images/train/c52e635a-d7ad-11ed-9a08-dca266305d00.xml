@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Brown Recluse Spider</folder>
+	<filename>c52e635a-d7ad-11ed-9a08-dca266305d00.jpg</filename>
+	<path>/Users/pasindu/Desktop/dataset/original/spider data set - Copy/train/Brown Recluse Spider/c52e635a-d7ad-11ed-9a08-dca266305d00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brown_Recluse_Spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>2</ymin>
+			<xmax>209</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

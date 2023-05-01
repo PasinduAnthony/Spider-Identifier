@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ladybird Mimic Spider</folder>
+	<filename>c573b41a-d7ad-11ed-b879-dca266305d00.jpg</filename>
+	<path>/Users/pasindu/Desktop/dataset/original/spider data set - Copy/train/Ladybird Mimic Spider/c573b41a-d7ad-11ed-b879-dca266305d00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ladybird_Mimic_Spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>11</ymin>
+			<xmax>215</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>
