@@ -19,7 +19,7 @@ Find your garden Spider is Venoumos or not ?
 **4. Open Training and Detection.ipynb file and run upto VERIFICATION_SCRIPT**
 
 **5. Install Dependencies required by Object Detection**
-`1.  pip install numpy`
+`1.  pip install numpy`<br/>
 `2.  pip install tensorflow`
 `3.  pip install matplotlib`
 `4.  pip install tensorflow-addons`
